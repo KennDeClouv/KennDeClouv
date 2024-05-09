@@ -11,9 +11,9 @@
   <a href="https://www.facebook.com/profile.php?id=100074498322908"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-0092D5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-ken-izzulhaq-4470b6290/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0092D5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:izzulaverroes@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Email-FF4747?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/izzulaverroes?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/izzulaverroes?color=FBFF41&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/izzulaverroes"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/izzulaverroes?color=236ad3&style=for-the-badge&logo=github&label=Followers"/></a>
+<a href="https://github.com/zulldevv?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zulldevv?color=FBFF41&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/zulldevv"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/zulldevv?color=236ad3&style=for-the-badge&logo=github&label=Followers"/></a>
  </p>
 
 
@@ -44,16 +44,17 @@ Support me on KoFi:
 
 ## Top respositorys
   <p align="center">
-     <a href="https://izzulaverroes.github.io/zulldevv/portfolio"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izzulaverroes&repo=portfolio&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zulldevv/cyberhazen"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izzulaverroes&repo=cyberhazen&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/zulldevv/ave"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izzulaverroes&repo=ave&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+     <a href="https://zulldevv.github.io/zulldevv/portfolio"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=portfolio&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zulldevv/cyberhazen"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=cyberhazen&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/zulldevv/ave"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=ave&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
 
 ## Real projects
   <p align="center">
-     <a href="https://github.com/zulldevv/pioneer"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syabab-dev&repo=pioneer&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zulldevv/xbank"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=izzulaverroes&repo=xbank&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/zulldevv/pioneer"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=pioneer&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zulldevv/xbank"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=xbank&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+        <a href="https://github.com/zulldevv/darispos"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zulldevv&repo=darispos&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
 ## Some jokes before end
