@@ -32,9 +32,9 @@ Support me on KoFi:
 
 ## My stats:
 <p align="center">
-<img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api?username=zulldevv&hide_border=true&show_icons=true&count_private=true&theme=react&bg_color=151515&">
+<img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=zulldevv&hide_border=true&show_icons=true&count_private=true&theme=react&bg_color=151515&">
   <a href="https://github.com/izzulaverroes">      
-<img height="200px" width="40%" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zulldevv&theme=react&bg_color=151515&hide_border=true"/>
+<img height="200px" width="45%" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zulldevv&theme=react&bg_color=151515&hide_border=true"/>
 </a> 
 </p>
 
