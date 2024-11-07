@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://instagram.com/kenndeclouv"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-FF63E8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/kenndeclouv"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-0092D5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-ken-izzulhaq-4470b6290/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0092D5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kenndeclouv/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0092D5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:izzulaverroes@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Email-FF4747?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/KennDeClouv?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KennDeClouv?color=FBFF41&style=for-the-badge&labelColor=959532&logo=star"/></a>
