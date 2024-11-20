@@ -10,7 +10,7 @@
   <a href="https://instagram.com/kenndeclouv"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-FF63E8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/kenndeclouv"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-0092D5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kenndeclouv/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0092D5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:izzulaverroes@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Email-FF4747?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:zuuliziluuz@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Email-FF4747?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/KennDeClouv?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KennDeClouv?color=FBFF41&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/KennDeClouv"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/KennDeClouv?color=236ad3&style=for-the-badge&logo=github&label=Followers"/></a>
@@ -34,7 +34,7 @@ Support me on KoFi:
 ## My stats:
 <p align="center">
 <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_border=true&show_icons=true&count_private=true&theme=react&bg_color=151515&">
-  <a href="https://github.com/izzulaverroes">      
+  <a href="https://github.com/KennDeClouv">      
 <img height="200px" width="45%" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=react&bg_color=151515&hide_border=true"/>
 </a> 
 </p>
@@ -46,7 +46,7 @@ Support me on KoFi:
 ## Top respositorys
   <p align="center">
      <a href="https://KennDeClouv.github.io/KennDeClouv/portfolio"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KennDeClouv&repo=portfolio&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/KennDeClouv/cyberhazen"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KennDeClouv&repo=cyberhazen&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/KennDeClouv/islamic-API"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KennDeClouv&repo=islamic-API&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/KennDeClouv/ave"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KennDeClouv&repo=ave&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
